@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@800&display=swap');
+*{
+    margin:0;
+    padding:0;
+}
+.header{
+    background-image: url('https://png.pngtree.com/thumb_back/fw800/back_our/20190620/ourmid/pngtree-shiny-diamonds-hd-poster-background-image_143755.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:500px;
+    margin-top:-50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.heaser-title{
+    font-family: poppins;
+    font-size:54px;
+    text-align:center;
+}
+.students-title{
+    text-align:center;
+    margin-bottom:50px;
+}
+.students-title h2{
+    font-family: poppins;
+    font-size:54px;
+}
+.students-title p{
+   width:50%;
+   margin:auto;
+}
+.student img{
+    width:200px;
+    height:200px;
+    border-radius: 100%;
+    margin:auto;
+    margin-top:20px;
+}
+.student .card-body{
+    text-align: center;
+}
+.middle{
+    background-color: rgb(184, 163, 163);
+    padding:50px 0;
+}
+.middile-text{
+    margin-top:50px;
+}
+.middile-text h2{
+    font-family: poppins;
+}
+.footer{
+    background-color: rgb(184, 163, 163);
+    padding:3px 0;
+}
